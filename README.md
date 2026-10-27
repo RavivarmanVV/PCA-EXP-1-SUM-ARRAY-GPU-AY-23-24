@@ -221,6 +221,7 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
+<img width="846" height="163" alt="image" src="https://github.com/user-attachments/assets/4992d1ab-2f12-4342-84f8-035cca2d558d" />
 
 
 ## RESULT:
