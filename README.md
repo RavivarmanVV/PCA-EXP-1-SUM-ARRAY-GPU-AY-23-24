@@ -1,6 +1,6 @@
 # PCA: EXP-1  SUM ARRAY GPU
-<h3>ENTER YOUR NAME</h3>
-<h3>ENTER YOUR REGISTER NO</h3>
+<h3>ENTER YOUR NAME: RAVIVARMAN VV</h3>
+<h3>ENTER YOUR REGISTER NO: 212224240133</h3>
 <h3>EX. NO</h3>
 <h3>DATE</h3>
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
@@ -29,6 +29,7 @@ Google Colab with NVCC Compiler
 6. Copy output data from the device to the host and verify the results against the host's sequential vector addition. Free memory on the host and the device.
 
 ## PROGRAM:
+```c
 %%cuda
 #include <stdio.h>
 #include <stdlib.h>
@@ -217,6 +218,7 @@ int main(int argc, char **argv)
 
     return 0;
 }
+```
 
 ## OUTPUT:
 
