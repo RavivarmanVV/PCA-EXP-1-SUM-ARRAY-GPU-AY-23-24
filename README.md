@@ -221,8 +221,20 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
-<img width="846" height="163" alt="image" src="https://github.com/user-attachments/assets/4992d1ab-2f12-4342-84f8-035cca2d558d" />
+## NO OF THREADS:512
+<img width="678" height="165" alt="image" src="https://github.com/user-attachments/assets/e8caa805-62d4-4f98-8e69-0a511aecff5a" />
 
+## NO OF THREADS:1023
+
+<img width="690" height="165" alt="image" src="https://github.com/user-attachments/assets/0548e6ea-346b-481a-a87c-17c8e810f2c0" />
+
+## NO OF THREADS:1024
+
+<img width="1182" height="287" alt="image" src="https://github.com/user-attachments/assets/acb47a77-7fef-4b2c-a8ba-928e41ad4fa8" />
+
+## NO OF THREADS:256
+
+<img width="1322" height="285" alt="image" src="https://github.com/user-attachments/assets/78e4ca70-2e7a-474e-9580-c169a5c24e67" />
 
 ## RESULT:
 Thus, Implementation of sum arrays on host and device is done in nvcc cuda using random number.
